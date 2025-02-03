@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Himanshu Patel! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200" />
+  <img src="/mnt/data/converted.gif" width="200" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-### 💼 Skills & Technologies
+### 🌟 Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/MS%20Excel-4CAF50?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-### 📫 Connect with Me
+### 💋 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-patel-7b11ba23a/">
@@ -33,4 +33,3 @@
   </a>
 </p>
 
----
