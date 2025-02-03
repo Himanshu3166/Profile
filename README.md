@@ -9,9 +9,6 @@
 
 ---
 
-### 🚀 About Me
-
-**Hello, I am Himanshu Patel!** 🌟
 
 ---
 
